@@ -349,6 +349,6 @@ All configurable settings are in [`src/config.py`](src/config.py):
 
 <div align="center">
 
-*Built with ❤️ using LangGraph, Ollama, and the spirit of Meta's Autodata research.*
+*Built with ❤️ & ☕ using LangGraph, Ollama, and the spirit of Meta's Autodata research.*
 
 </div>
